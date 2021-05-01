@@ -32,10 +32,10 @@ Here are two appoarch with MNIST dataset on kaggleusing machine learning (SVM,Lo
 Here's Project structure:
 * MLmnist.ipynb: code for ML model in colab
 * cnnmnist.ipynb: code for CNN in colab
-*digit recognizer.zip: file zip for dataset inluce
-  *train.csv
-  *test.csv
-  *sample_submission.csv
+* digit recognizer.zip: file zip for dataset inluce
+  * train.csv
+  * test.csv
+  * sample_submission.csv
 <!-- CONTACT -->
 ## Contact
 
