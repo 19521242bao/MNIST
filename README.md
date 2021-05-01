@@ -25,33 +25,8 @@
 
 
 
-<!-- TABLE OF CONTENTS -->
-<details open="open">
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#contact">Contact</a></li>
-
-  </ol>
-</details>
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
 Here are two appoarch with MNIST dataset on kaggleusing machine learning (SVM,Logistic Regression,Randomorest and deep learning (using CNN and data augmentation)). The best accuracy for ML is 95.93% and CNN is 99.3%.It's a process of learning and improving results from ML method traditional to more modernizing deep learning methods.
 
 Here's Project structure:
